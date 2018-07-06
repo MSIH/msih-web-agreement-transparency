@@ -10,3 +10,6 @@ Database of User Agreements to review and analyze
 - As a user, I want to see changes between agreement version
 - As a user, I want to see which agreemetn have change without notice
 - As a user, I want to see which agreemnts can sell my data to third parties
+- As a user, I want to see location of jurisdction
+- As a user, I want to see which agreement include opt out arbitration
+- As a user, I want to see address for copyright, privacy ...
