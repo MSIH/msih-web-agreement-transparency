@@ -1,9 +1,11 @@
 # Agreement Transparency
+A web application that archives and analyze website User Agreements, Terms of Service, and Privacy Stemetents.
 
-Database of User Agreements to review and analyze
+- scrape web sites for content
+- use AI to analyze content
+- 
 
 ## User Story
-
 - As a user, I want to see which agreements have binding arbitration
 - As a user, I want to see which agreement have no class action
 - As a user, I want to know how the length of agreement
